@@ -1,0 +1,2 @@
+&& and || the left operand is evaluated first
+== we dont know 
